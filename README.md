@@ -10,5 +10,5 @@ univ_in_pref.csvとtohoku_uni.csvというかたちでデータが書き出さ�
 ## tohoku_uni.csv
 東北大学の授業の評価（rec）とレポートの有無（report）、出席の有無（attend）のデータファイルです。
 
-##analysis_part.R
+## analysis_part.R
 分析パートです。
