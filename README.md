@@ -14,3 +14,6 @@ univ_in_pref.csvとtohoku_uni.csvというかたちでデータが書き出さ�
 
 ## analysis_part.R
 分析パートです。
+
+## Sendai_R_2_presentation.pdf
+発表に使用したスライドです。
