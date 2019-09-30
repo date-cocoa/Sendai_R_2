@@ -17,3 +17,11 @@ univ_in_pref.csvとtohoku_uni.csvというかたちでデータが書き出さ�
 
 ## Sendai_R_2_presentation.pdf
 発表に使用したスライドです。
+
+## scraping_purrr.R
+takuizumさんによって作成された、scraping_part.Rの一部をpurrrを使用して高速化したverです。
+takuizumさんのページ：https://github.com/takuizum
+
+## scraping_tohoku_purrr.R
+takuizumさんによって作成された、scraping_part.Rの一部をpurrrを使用して高速化したverです。
+takuizumさんのページ：https://github.com/takuizum
